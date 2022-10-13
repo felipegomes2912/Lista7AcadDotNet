@@ -18,7 +18,7 @@ namespace Lista7AcadDotNet
         }
         public int getQuantidadeEmEstoque()
         {
-            return quantidadeEmEstoque;
+            return quantidadeEmEstoque; 
         
 
     }

@@ -13,7 +13,7 @@ namespace Lista7AcadDotNet
         private string formaDePagamento;
         public Produto produto;
 
-        public void setPreco(double preco)
+        public void setPreco(double preco) 
         {
             this.preco = preco;
         }

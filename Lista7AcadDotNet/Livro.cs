@@ -13,7 +13,7 @@ namespace Lista7AcadDotNet
         public int faixaEtaria;
         public Livro(string capa, string tema, int faixaEtaria)
         {
-            this.capa = capa;
+            this.capa = capa; 
             this.tema = tema;
             this.faixaEtaria = faixaEtaria;
         }

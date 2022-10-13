@@ -10,7 +10,7 @@ namespace Lista7AcadDotNet
     {
         public int altura, idade;
         public string nome;
-
+         
         public Pessoas(int altura, int idade, string nome)
         {
             this.altura = altura;

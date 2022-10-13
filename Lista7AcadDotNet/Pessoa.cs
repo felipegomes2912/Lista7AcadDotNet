@@ -16,7 +16,7 @@ namespace Lista7AcadDotNet
             this.altura = altura;
             this.peso = peso;
             this.corDosOlhos = corDosOlhos;
-            this.corDoCabelo = corDoCabelo;
+            this.corDoCabelo = corDoCabelo; 
         }   
         public void getAltura()
         {

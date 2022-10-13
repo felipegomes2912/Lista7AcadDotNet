@@ -12,7 +12,7 @@ namespace Lista7AcadDotNet
         private string cor = "Verde";
 
         public Carro(double consumo, string placa, string fabricante, string cor)
-        {
+        { 
             this.consumo = consumo;
             this.placa = placa;
             this.fabricante = fabricante;

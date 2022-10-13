@@ -16,7 +16,7 @@ namespace Lista7AcadDotNet
             this.nome = nome;
         }
 
-        public void addPessoas(int idade, int altura, string nome)
+        public void addPessoas(int idade, int altura, string nome) 
         {
             Pessoas pessoas = new Pessoas(altura, idade, nome);
             agenda.Add(pessoas);

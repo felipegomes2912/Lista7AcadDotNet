@@ -7,7 +7,7 @@ namespace Lista7AcadDotNet
 {
     internal class Aluguel
     {
-        private string dataInicio = "07/10/2022", dataFim = "10/10/2022";
+        private string dataInicio = "07/10/2022", dataFim = "10/10/2022"; 
         public Carro carro;
         public Cliente cliente;
 

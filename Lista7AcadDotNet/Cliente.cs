@@ -13,7 +13,7 @@ namespace Lista7AcadDotNet
         {
             return nome;
         }
-        public int getIdade()
+        public int getIdade() 
         {
             return idade;
         }
